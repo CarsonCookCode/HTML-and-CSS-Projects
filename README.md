@@ -1,4 +1,7 @@
 # HTML-and-CSS-Projects
 Projects from the HTML and CSS course
 
-Anything from the course will be saved to this repository.
+Project:
+This page is an example home page for a Space travel company. It's styled using CSS and contains a navbar,
+image containers, and a form.
+
